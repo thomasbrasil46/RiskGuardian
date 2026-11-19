@@ -1,0 +1,14 @@
+# Ignorar arquivos de ambiente e senhas
+.env
+segredo.txt
+
+# Ignorar pastas de dependências ou build
+node_modules/
+dist/
+build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar esse arquivo
+/ToDo.md
